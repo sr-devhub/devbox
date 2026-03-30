@@ -1,0 +1,4 @@
+// Validating benchmarks:
+// Benchmark CheckPalindromeclass.CheckPalindrome: DefaultJob
+//    * Benchmarked method `CheckPalindrome` is within a non-visible class, all declaring types must be public.
+
